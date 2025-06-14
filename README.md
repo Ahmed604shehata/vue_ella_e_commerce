@@ -1,2 +1,24 @@
-# vue_ella_e_commerce
-this is a responsive ecommerce created  by  Vue.js , Vuetify ,  javaScript , Sass , pinia , axios , slider.js  . and have many pages as pages of categories  , cart , payment , and popup to show product
+# ella-project
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
